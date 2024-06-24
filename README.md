@@ -33,17 +33,17 @@ Angular Microapps & Node.js webservices development for a bank customer. Applied
 <small>
   <small><b>Technologies & Tools</b></small>
   <br>
-  <img src="https://img.shields.io/badge/Banking_Industry-red.svg" alt="Banking Industry"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-red.svg" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Adobe_AEM-blue.svg" alt="Adobe AEM"/>
-  <img src="https://img.shields.io/badge/Angular 11-blue.svg" alt="Angular 11"/>
-  <img src="https://img.shields.io/badge/Gitlab-blue.svg" alt="Gitlab"/>
+  <a href="#"><img src="https://img.shields.io/badge/Banking_Industry-red.svg" alt="Banking Industry"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CI%2FCD-red.svg" alt="CI/CD"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_AEM-blue.svg" alt="Adobe AEM"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Angular 11-blue.svg" alt="Angular 11"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gitlab-blue.svg" alt="Gitlab"/></a>
   <br>
-  <img src="https://img.shields.io/badge/Node.js-darkgreen.svg" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Typescript-darkgreen.svg" alt="Typescript"/>
-  <img src="https://img.shields.io/badge/Javascript_ES5-darkgreen.svg" alt="Javascript ES5"/>
-  <img src="https://img.shields.io/badge/Memcached-darkgreen.svg" alt="Memcached"/>
-  <img src="https://img.shields.io/badge/Git-darkgreen.svg" alt="Git"/>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-darkgreen.svg" alt="Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Typescript-darkgreen.svg" alt="Typescript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Javascript_ES5-darkgreen.svg" alt="Javascript ES5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Memcached-darkgreen.svg" alt="Memcached"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-darkgreen.svg" alt="Git"/></a>
 </small>
 
 --- 
