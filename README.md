@@ -98,17 +98,17 @@ Application development for boarding pass & tickets printing. Had to follow AEA 
   <a href="#"><img src="https://img.shields.io/badge/Angular_%287%2F8%2F9%29-blue.svg" alt="Angular (7/8/9)"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Java_Spring_Framework-blue.svg" alt="Java Spring Framework"/></a>
   <br>
-  <img src="https://img.shields.io/badge/Java_1.2-darkgreen.svg" alt="Java 1.2"/></a>
-  <img src="https://img.shields.io/badge/Java_8-darkgreen.svg" alt="Java 8"/></a>
-  <img src="https://img.shields.io/badge/Java_11-darkgreen.svg" alt="Java 11"/></a>
-  <img src="https://img.shields.io/badge/Typescript-darkgreen.svg" alt="Typescript"/></a>
-  <img src="https://img.shields.io/badge/Javascript_ES5-darkgreen.svg" alt="Javascript ES5"/></a>
-  <img src="https://img.shields.io/badge/Kotlin-darkgreen.svg" alt="Kotlin"/></a>
-  <img src="https://img.shields.io/badge/Node.js-darkgreen.svg" alt="Node.js"/></a>
-  <img src="https://img.shields.io/badge/Mongo_DB-darkgreen.svg" alt="Mongo DB"/></a>
-  <img src="https://img.shields.io/badge/Twitter_Bootstrap-darkgreen.svg" alt="Twitter Bootstrap"/></a>
-  <img src="https://img.shields.io/badge/Git-darkgreen.svg" alt="Git"/></a>
-  <img src="https://img.shields.io/badge/Classic_ASP-darkgreen.svg" alt="Classic ASP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java_1.2-darkgreen.svg" alt="Java 1.2"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java_8-darkgreen.svg" alt="Java 8"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java_11-darkgreen.svg" alt="Java 11"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Typescript-darkgreen.svg" alt="Typescript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Javascript_ES5-darkgreen.svg" alt="Javascript ES5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-darkgreen.svg" alt="Kotlin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-darkgreen.svg" alt="Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mongo_DB-darkgreen.svg" alt="Mongo DB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter_Bootstrap-darkgreen.svg" alt="Twitter Bootstrap"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-darkgreen.svg" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Classic_ASP-darkgreen.svg" alt="Classic ASP"/></a>
 </small>
 
 
